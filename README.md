@@ -1,16 +1,13 @@
-## Hi there 👋
+# My Portfolio
 
-<!--
-**anchalcreates08/anchalcreates08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Projects
 
-Here are some ideas to get you started:
+### FocusFlow Study Planner
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A React-based study planning tool that creates personalized study schedules.
+
+Live Demo:
+focusflow-study-planner-f8uv-6mayo6k90-anchalcreates.vercel.app
+
+Source Code:
+https://github.com/anchalcreates08/focusflow-study-planner
